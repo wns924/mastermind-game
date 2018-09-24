@@ -18,7 +18,7 @@ This is a simple mastermind game. It is designed that the computer is the code m
 * No repetitive colour in a row
 
 ## Report
-[report](MASTERMIND.docx)
+[Report](MASTERMIND.docx)
 
 ## Login
 **Ac:Admin     Pw:123**
